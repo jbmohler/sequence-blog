@@ -1,3 +1,7 @@
+---
+title: Bernoulli Triangle
+---
+
 ## A 2-d Sequence
 
 Today's sequence is not a sequence technically, but it is a very important 2
@@ -8,26 +12,23 @@ $$
 1
 $$
 $$
-1 1
+1\hspace{.2in}1
 $$
 $$
-1 2 1
+1\hspace{.2in}2\hspace{.2in}1
 $$
 $$
-1 3 3 1
+1\hspace{.2in}3\hspace{.2in}3\hspace{.2in}1
 $$
 $$
-1 4 6 4 1
+1\hspace{.2in}4\hspace{.2in}6\hspace{.2in}4\hspace{.2in}1
 $$
 $$
-1 5 10 10 5 1
+1\hspace{.2in}5\hspace{.2in}10\hspace{.2in}10\hspace{.2in}5\hspace{.2in}1
 $$
 $$
-1 6 15 20 15 6 1
+1\hspace{.2in}6\hspace{.2in}15\hspace{.2in}20\hspace{.2in}15\hspace{.2in}6\hspace{.2in}1
 $$
-
-See [There is a nice image here]
-(http://mathsdemo.cf.ac.uk/maths/research/researchgroups/numbertheory/bernoulli/index.html).
 
 ## Many Sequences
 
