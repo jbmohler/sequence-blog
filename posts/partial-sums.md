@@ -1,3 +1,7 @@
+---
+title: Partial Sums
+---
+
 # Partial Sums
 
 If one has a sequence of integers, you can generate another sequence of

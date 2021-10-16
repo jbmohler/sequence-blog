@@ -1,3 +1,7 @@
+---
+title: Triangular Numbers
+---
+
 # This blog
 
 This is a blog about numbers, overwhelmingly simple positive integers.  Beyond

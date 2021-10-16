@@ -1,3 +1,7 @@
+---
+title: Triangular Number Formula
+---
+
 # Our first sequence (revisited)
 
 In our first post, we discussed the triangular numbers.  They are defined by 
