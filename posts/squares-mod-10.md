@@ -11,16 +11,16 @@ Here are the perfect squares up to $20^2$.
 
 $$
 \hspace{.1in}\hspace{.1in}1\hspace{.1in}\hspace{.1in}\hspace{.1in}4\hspace{.1in}\hspace{.1in}\hspace{.1in}9\hspace{.1in}\hspace{.1in}16\hspace{.1in}\hspace{.1in}25
-\hspace{.1in}2\hspace{.1in}36\hspace{.1in}\hspace{.1in}49\hspace{.1in}\hspace{.1in}64\hspace{.1in}\hspace{.1in}81\hspace{.1in}100
-\hspace{.1in}2121\hspace{.1in}144\hspace{.1in}169\hspace{.1in}196\hspace{.1in}225
-\hspace{.1in}2256\hspace{.1in}289\hspace{.1in}324\hspace{.1in}361\hspace{.1in}400
+\hspace{.1in}\hspace{.1in}36\hspace{.1in}\hspace{.1in}49\hspace{.1in}\hspace{.1in}64\hspace{.1in}\hspace{.1in}81\hspace{.1in}100
+\hspace{.1in}121\hspace{.1in}144\hspace{.1in}169\hspace{.1in}196\hspace{.1in}225
+\hspace{.1in}256\hspace{.1in}289\hspace{.1in}324\hspace{.1in}361\hspace{.1in}400
 $$
 
 Observe that the final digits of each of these numbers is:
 
 $$
 1\hspace{.3in}4\hspace{.3in}9\hspace{.3in}6\hspace{.3in}5\hspace{.3in}6\hspace{.3in}9\hspace{.3in}4\hspace{.3in}1\hspace{.3in}0
-\hspace{.3in}41\hspace{.3in}4\hspace{.3in}9\hspace{.3in}6\hspace{.3in}5\hspace{.3in}6\hspace{.3in}9\hspace{.3in}4\hspace{.3in}1\hspace{.3in}0
+\hspace{.3in}1\hspace{.3in}4\hspace{.3in}9\hspace{.3in}6\hspace{.3in}5\hspace{.3in}6\hspace{.3in}9\hspace{.3in}4\hspace{.3in}1\hspace{.3in}0
 $$
 
 ## Squares mod 10
